@@ -4,15 +4,12 @@
  * and open the template in the editor.
  */
 
-package Model;
+package Controller;
 
 /**
  *
  * @author Sebastián
  */
-public class Agent {
-    long energy;
-    long rateEnergyIncreases;
-    long rateEnergyDecreases;
+public class BoxController {
     
 }

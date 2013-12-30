@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package Controller;
+package Model;
 
 /**
  *
  * @author Sebastián
  */
-public class AgentControler {
+public class WorkBox extends Box{
     
 }

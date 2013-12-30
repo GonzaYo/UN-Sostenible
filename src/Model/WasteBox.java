@@ -10,9 +10,6 @@ package Model;
  *
  * @author Sebastián
  */
-public class Agent {
-    long energy;
-    long rateEnergyIncreases;
-    long rateEnergyDecreases;
+public class WasteBox extends Box{
     
 }
